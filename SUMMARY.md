@@ -10,5 +10,6 @@
 ## Plugins and Libraries
 
 * [Plugins 101](plugins-and-libraries/plugins-101.md)
+* [Libraries 101](plugins-and-libraries/libraries-101.md)
 * [JavaScript Library](plugins-and-libraries/javascript-library.md)
 * [Windows Library](plugins-and-libraries/windows-library.md)
