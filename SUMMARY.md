@@ -6,3 +6,8 @@
 
 * [Windows (10+)](install/windows-10+.md)
 * [Raw Code](install/raw-code.md)
+
+## Plugins and Libraries
+
+* [Plugins 101](plugins-and-libraries/plugins-101.md)
+* [JavaScript Library](plugins-and-libraries/javascript-library.md)
