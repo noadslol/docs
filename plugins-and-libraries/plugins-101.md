@@ -4,12 +4,6 @@ description: What a plugin is and how it works.
 
 # Plugins 101
 
-{% hint style="danger" %}
-**THE FIRST LINE OF THE CONFIG.PHP FILE SHOULD ALWAYS BE `<?PHP`**
-
-This is **REQUIRED** otherwise this will break the entire program! This is already sat up out-of-the-box, but in case you accidentally remove that line, you will need to open your text editor of choice and manually fix it
-{% endhint %}
-
 Plugins are PHP snippets that are injected to the `config.php` file which are included on every page. This can be used to...
 
 * Execute shell commands,

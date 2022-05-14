@@ -20,8 +20,13 @@ Valid Example (no error):
 
 Invalid example (no library error):
 
-1. You install a plugin that requires the JavaScript library **OR** you entered your own below the JavaScript library code in the `config.php`
+1. You install a plugin that requires the JavaScript library
 2. You installed the JavaScript Library **AFTER OR** you did not install the JavaScript library at all
 {% endhint %}
 
 Libraries are special plugin "helpers" that require you to use a specific OS or have specific compatibilities. These are available in the plugin dropdown menu and documentation for libraries are available in this category.
+
+Libraries only work on specific devices and operating systems. All devices can install any library, however installing a library that won't work on your device may result in broken code. For example,
+
+* The Windows library only works on Windows devices (OS 10+) as it can do Windows actions,
+* The JavaScript library only works in browsers that support JavaScript as it uses JavaScript
